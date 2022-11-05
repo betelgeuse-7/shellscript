@@ -1,0 +1,9 @@
+Hello friends!
+
+This is a test file.
+
+yes
+
+fun greet() -> {
+    Stdout::println("Hey").
+}
